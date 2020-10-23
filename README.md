@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### Bacharel Administração PUCPR
+
+### Estudante Feitep
 
 <!--
 **Alessandroobarros/Alessandroobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 TESTE-->
-[Linkedin: ](https://www.linkedin.com/in/alessandro-barros-10250192/)
+[Linkedin](https://www.linkedin.com/in/alessandro-barros-10250192/)
+
