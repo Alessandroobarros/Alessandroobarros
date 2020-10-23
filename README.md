@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-### Bacharel Administração PUCPR
+### * Estudante Engenharia Computação Feitep
 
-### Estudante Feitep
+### * Bacharel Administração PUCPR
+
 
 <!--
 **Alessandroobarros/Alessandroobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
