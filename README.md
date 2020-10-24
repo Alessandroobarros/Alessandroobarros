@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 TESTE-->
-[Linkedin](https://www.linkedin.com/in/alessandro-barros-10250192/)
+
+
+- 📫 Reach me: [Instagran](https://www.instagram.com/alexsandrojb/) and [Linkedin](https://www.linkedin.com/in/alessandro-barros-10250192/)- ⚡️ Fun fact: I'm a huge fan of Animes
+
 
